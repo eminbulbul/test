@@ -1,0 +1,286 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "TYT CANLI KURS PAKETLERİ",
+      "image_url": "/img/tyt_canli.png",
+      "educators": {
+        "datas": [
+          {
+            "name": "Kadir Yolcu",
+            "educatorTitle": "Eğitim Koordinatörü",
+            "educatorPicture": "/img/ogretmen01.jpg",
+            "educatorDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo,assumenda? Autem magnam maiores neque fugiat voluptates enim ex quiofficiis expedita temporibus. Deleniti officiis impedit est dolorumiste? Iste necessitatibus, ratione modi ab a iusto eaque. Dolor,odio nemo vitae a quibusdam modi, voluptatibus recusandae rationecumque veritatis, autem odit."
+          },
+          {
+            "name": "Kadir Hancı",
+            "educatorTitle": "Eğitim Koordinatörü 2",
+            "educatorPicture": "/img/ogretmen02.jpg",
+            "educatorDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo,assumenda? Autem magnam maiores neque fugiat voluptates enim ex quiofficiis expedita temporibus. Deleniti officiis impedit est dolorumiste? Iste necessitatibus, ratione modi ab a iusto eaque. Dolor,odio nemo vitae a quibusdam modi, voluptatibus recusandae rationecumque veritatis, autem odit."
+          }
+        ]
+      },
+      "package_description_image": "/img/olcuverenk.png",
+      "isPackage": true,
+      "price": 50,
+      "language": "Türkçe",
+      "duration": "48 saat",
+      "littleimage_url": "/img/tyt_canli.png",
+      "description": "TYT, Yükseköğretim Kurumları Sınavı’nın (YKS) ilk oturumudur. Üniversiteye girmek isteyen öğrencilerin bu sınava girmesi gerekmektedir. TYT’de toplam 120 soru vardır ve sınav süresi 135 dakikadır. TYT konuları arasında matematik, Türkçe, biyoloji, fizik, coğrafya, kimya, tarih, din kültürü ve felsefe yer almaktadır. TYT canlı kurs paketleri, öğrencilerin TYT konularını daha iyi öğrenmeleri için hazırlanmış eğitim programlarıdır. TYT canlı kurs paketleri, Milli Eğitim Bakanlığı tarafından belirlenen müfredat ve kazanımlara uygun olarak hazırlanır. TYT canlı kurs paketleri, sınavda başarılı olmak için gerekli temel yeterlilikleri kazandırmayı amaçlar. Öğrencilerimiz sisteme seviye tespit sınavı ile başlar, seviye tespit sınavı neticesinde yapay zeka destekli dijital koç ile yapılan ölçme değerlendirme analiziyle başlangıç seviyesi tespit edilen öğrencimize hedef odaklı çalışma planı hazırlanır. Hedef odaklı çalışma planı hazırlanan öğrencimiz, seviyesine uygun olan canlı kurs paketi ile derslere başlar. Derslerini animasyon video anlatımlı konu föyleriyle öğrenir, yaprak testlerini çözer, soru bankalarını çözer, denemelerine girer. TYT Hazırlık canlı kurs paketlerimiz üç farklı öğrenci seviyesine göre on değişik pakette animasyon video anlatımlı olarak yapılmıştır",
+      "teacher_image": "example.com",
+      "accordionData": {
+        "sections": [
+          {
+            "parrent": "TYT Sayısal Canlı Kurs Paketleri",
+            "titles": [
+              {
+                "title": "Temel Seviye Canlı Kurs Paketi",
+                "id": 123
+              },
+              {
+                "title": "Orta-İleri Seviye Canlı Kurs Paketi",
+                "id": 124
+              }
+            ]
+          },
+          {
+            "parrent": "TYT Sözel Canlı Kurs Paketleri",
+            "titles": [
+              {
+                "title": "Temel Seviye Canlı Kurs Paketi",
+                "id": 125
+              },
+              {
+                "title": "Orta-İleri Seviye Canlı Kurs Paketi",
+                "id": 127
+              }
+            ]
+          },
+          {
+            "parrent": "TYT Eşit Ağırlık Canlı Kurs Paketleri",
+            "titles": [
+              {
+                "title": "Temel Seviye Canlı Kurs Paketi",
+                "id": 128
+              },
+              {
+                "title": "Orta-İleri Seviye Canlı Kurs Paketi",
+                "id": 129
+              }
+            ]
+          },
+          {
+            "parrent": "TYT Tek Ders Canlı Kurs Paketleri",
+            "titles": [
+              {
+                "title": "TYT Matematik Canlı Kurs Paketleri",
+                "id": 130
+              },
+              {
+                "title": "TYT/AYT Geometri Canlı Kurs Paketleri",
+                "id": 131
+              },
+              {
+                "title": "TYT Türkçe Canlı Kurs Paketi",
+                "id": 132
+              },
+              {
+                "title": "TYT Fizik Canlı Kurs Paketi",
+                "id": 133
+              },
+              {
+                "title": "TYT Kimya Canlı Kurs Paketi",
+                "id": 134
+              },
+              {
+                "title": "TYT Biyoloji Canlı Kurs Paketi",
+                "id": 135
+              },
+              {
+                "title": "TYT Coğrafya Canlı Kurs Paketi",
+                "id": 136
+              },
+              {
+                "title": "TYT/AYT Tarih Canlı Kurs Paketi",
+                "id": 137
+              },
+              {
+                "title": "TYT/AYT Felsefe Canlı Kurs Paketi",
+                "id": 138
+              },
+              {
+                "title": "TYT/AYT Din Kültürü Canlı Kurs Paketi",
+                "id": 139
+              },
+              {
+                "title": "TYT Paragraf Uygulamaları Canlı Kurs Paketi",
+                "id": 140
+              },
+              {
+                "title": "TYT Problemler Canlı Kurs Paketi",
+                "id": 141
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 123,
+      "title": "TYT Sayısal Temel Seviye Canlı Kurs Paketi",
+      "image_url": "example.com",
+      "isPackage": false,
+      "educators": {
+        "datas": [
+          {
+            "name": "Kadir Yolcu",
+            "educatorTitle": "Eğitim Koordinatörü",
+            "educatorPicture": "/img/ogretmen01.jpg",
+            "educatorDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo,assumenda? Autem magnam maiores neque fugiat voluptates enim ex quiofficiis expedita temporibus. Deleniti officiis impedit est dolorumiste? Iste necessitatibus, ratione modi ab a iusto eaque. Dolor,odio nemo vitae a quibusdam modi, voluptatibus recusandae rationecumque veritatis, autem odit."
+          }
+        ]
+      },
+      "videoData": {
+        "datas": [
+          {
+            "tabID": 1,
+            "tabName": "Kurs Tanıtım",
+            "videoUrl": "https://nohutakademi.com/cms/upload/obj_04380d25ad514518b456663db73aee62.mp4"
+          },
+          {
+            "tabID": 2,
+            "tabName": "Tyt-Türkçe",
+            "videoUrl": "https://nohutakademi.com/cms/upload/obj_04380d25ad514518b456663db73aee62.mp4"
+          },
+          {
+            "tabID": 3,
+            "tabName": "Tyt-Matematik",
+            "videoUrl": "https://nohutakademi.com/cms/upload/obj_04380d25ad514518b456663db73aee62.mp4"
+          },
+          {
+            "tabID": 4,
+            "tabName": "Tyt-Geometri",
+            "videoUrl": "https://nohutakademi.com/cms/upload/obj_04380d25ad514518b456663db73aee62.mp4"
+          },
+          {
+            "tabID": 5,
+            "tabName": "Tyt-Fizik",
+            "videoUrl": "https://nohutakademi.com/cms/upload/obj_04380d25ad514518b456663db73aee62.mp4"
+          },
+          {
+            "tabID": 6,
+            "tabName": "Tyt-Kimya",
+            "videoUrl": "https://nohutakademi.com/cms/upload/obj_04380d25ad514518b456663db73aee62.mp4"
+          },
+          {
+            "tabID": 7,
+            "tabName": "Tyt-Biyoloji",
+            "videoUrl": "https://nohutakademi.com/cms/upload/obj_04380d25ad514518b456663db73aee62.mp4"
+          }
+        ]
+      },
+      "price": 35.0,
+      "language": "Türkçe",
+      "duration": "25 saat",
+      "littleimage_url": "example.com",
+      "description": "TYT/AYT Din Kültürü Sınava Hazırlık Yapmak İçin Nasıl Bir Çalışma İçinde Olmalıyız? Öncelikle TYT/AYT din kültürü müfredatını ve sınav formatını iyi bir şekilde inceleyin. Hangi derslerin ve konuların sınavda çıkacağını, soru sayılarını ve sürelerini bilin. Bu şekilde çalışma programınızı daha verimli ve gerçekçi bir şekilde oluşturabilirsiniz.Kendinizi tanıyın ve hangi derslere ve konulara daha çok ihtiyacınız olduğunu belirleyin. Zayıf olduğunuz dersleri ve konuları önceliklendirmeye çalışın. Güçlü olduğunuz dersleri ve konuları ise ihmal etmeden tekrar edin.Düzenli bir çalışma programı oluşturmanız ve bu programa sadık kalarak konuları teker teker bitirmeniz önemlidir.Çalışma programınızı yapay zeka destekli dijital koç seviye tespit sınavı sonucuna göre hedefinizdeki bölüm ve istenilen net sayısına göre bir planlama yapar. Programınızı düzenli olarak gözden geçirin ve gerekirse revize edin.Nohut Akademide 4K Animasyon destekli video anlatım konuları bitirdikten sonra bol bol soru çözmeniz ve eksiklerinizi tespit etmeniz gerekmektedir Soru çözerken zamanı iyi ayarlamanız ve sınav formatına uygun sorular çözmeniz faydalı olacaktır.4K Animasyon destekli video anlatımı Konu FöY PDF'leri üzerinde yapılmakta adım adım hücreleme tekniği ile ilerlemektedir. FöY anlatımının arkasından video çözümlü öğreten testler olup konuyu sorularla öğrenmeniz sağlanmaktadır.Nohut Akademide konu ve soru eksiğiniz giderildikten sonra sınav formatına uygun zorluk derecesi yavaş yükselen yaprak test ve soru föyleriyle soru çözümleri yaparsınız. Soru çözümü sırasında, yanlışlarınızı 4K video çözüm anlatımında görür ve düzeltirsiniz. Bu akış size 4k video çözüm ipuçlarını kavratır, soru tiplerini tanıtır ve çözüm tekniklerini ayrıntılı gösterir.Çalışma ortamınızı ve zamanınızı iyi ayarlayın. Çalışma ortamınızın sessiz, aydınlık, rahat ve düzenli olmasına özen gösterin. Çalışma zamanınızı ise kendinize uygun bir şekilde belirleyin. Sabah mı akşam mı daha verimli çalıştığınızı test edin ve ona göre plan yapın.Çalışırken ara verin ve dinlenin. Sürekli çalışmak hem zihinsel hem de fiziksel olarak yorucu olabilir. Bu nedenle çalışma sürenizi bölümlere ayırın ve aralarda kısa molalar verin. Mola verirken kendinizi rahatlatın, su için, esneyin, yürüyün veya müzik dinleyin. Ayrıca uyku düzeninize de dikkat edin ve yeterli uyuyun.Çalışırken kaynak çeşitliliğine önem verin. Sadece ders kitaplarıyla veya sadece test kitaplarıyla çalışmayın. Farklı kaynaklardan faydalanın.Önemli Not : Nohut akademi tüm gelişim sürecinizi yapay zeka destekli dijital koç ile ölçer analiz eder raporlar ve gelişiminize uygun çalışma planı sunar. Size en uygun hedef odaklı , kişiye özel çalışma programınızı yapar. Tek yapmanız çalışma programına sadık kalarak düzenli ders çalışmanız ve hedefinize ulaşmanız.",
+      "teacher_image": "example.com",
+      "accordionData": {
+        "sections": [
+          {
+            "parrent": "TYT Sayısal Canlı Kurs Paketleri",
+            "titles": [
+              {
+                "title": "Temel Seviye Canlı Kurs Paketi",
+                "id": 123
+              },
+              {
+                "title": "Orta-İleri Seviye Canlı Kurs Paketi",
+                "id": 124
+              }
+            ]
+          },
+          {
+            "parrent": "TYT Sözel Canlı Kurs Paketleri",
+            "titles": [
+              {
+                "title": "Temel Seviye Canlı Kurs Paketi",
+                "id": 125
+              },
+              {
+                "title": "Orta-İleri Seviye Canlı Kurs Paketi",
+                "id": 127
+              }
+            ]
+          },
+          {
+            "parrent": "TYT Eşit Ağırlık Canlı Kurs Paketleri",
+            "titles": [
+              {
+                "title": "Temel Seviye Canlı Kurs Paketi",
+                "id": 128
+              },
+              {
+                "title": "Orta-İleri Seviye Canlı Kurs Paketi",
+                "id": 129
+              }
+            ]
+          },
+          {
+            "parrent": "TYT Tek Ders Canlı Kurs Paketleri",
+            "titles": [
+              {
+                "title": "TYT Matematik Canlı Kurs Paketleri",
+                "id": 130
+              },
+              {
+                "title": "TYT/AYT Geometri Canlı Kurs Paketleri",
+                "id": 131
+              },
+              {
+                "title": "TYT Türkçe Canlı Kurs Paketi",
+                "id": 132
+              },
+              {
+                "title": "TYT Fizik Canlı Kurs Paketi",
+                "id": 133
+              },
+              {
+                "title": "TYT Kimya Canlı Kurs Paketi",
+                "id": 134
+              },
+              {
+                "title": "TYT Biyoloji Canlı Kurs Paketi",
+                "id": 135
+              },
+              {
+                "title": "TYT Coğrafya Canlı Kurs Paketi",
+                "id": 136
+              },
+              {
+                "title": "TYT/AYT Tarih Canlı Kurs Paketi",
+                "id": 137
+              },
+              {
+                "title": "TYT/AYT Felsefe Canlı Kurs Paketi",
+                "id": 138
+              },
+              {
+                "title": "TYT/AYT Din Kültürü Canlı Kurs Paketi",
+                "id": 139
+              },
+              {
+                "title": "TYT Paragraf Uygulamaları Canlı Kurs Paketi",
+                "id": 140
+              },
+              {
+                "title": "TYT Problemler Canlı Kurs Paketi",
+                "id": 141
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

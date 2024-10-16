@@ -1,0 +1,133 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-body text-body leading-body text-base font-normal overflow-x-hidden;
+  }
+  a {
+    @apply transition-colors hover:text-primary;
+  }
+  p {
+    @apply mb-3.8;
+  }
+  p:last-child {
+    @apply mb-0;
+  }
+  p:only-child {
+    @apply mb-0;
+  }
+  h1,
+  .h1,
+  h2,
+  .h2,
+  h3,
+  .h3,
+  h4,
+  .h4,
+  h5,
+  .h5,
+  h6,
+  .h6 {
+    @apply font-heading text-heading leading-heading font-bold mb-2;
+  }
+  h1,
+  .h1 {
+    @apply text-h1;
+  }
+  h2,
+  .h2 {
+    @apply text-[26px] md:text-h2;
+  }
+  h3,
+  .h3 {
+    @apply text-h4 md:text-h3;
+  }
+  h4,
+  .h4 {
+    @apply text-h4;
+  }
+  h5,
+  .h5 {
+    @apply text-h5;
+  }
+  h6,
+  .h6 {
+    @apply text-h6;
+  }
+  h1 a,
+  h2 a,
+  h3 a,
+  h4 a,
+  h5 a,
+  h6 a {
+    @apply text-current hover:text-primary;
+  }
+  .link-overlay {
+    @apply absolute inset-0 -indent-[99999px] z-10;
+  }
+  .table-responsive {
+    @apply overflow-y-auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  iframe {
+    height: auto;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+  }
+  .rotate-y-180 {
+    transform: rotateY(180deg);
+  }
+  .rotate-y-180-translate-x-half {
+    transform: translateX(-50%) rotateY(180deg);
+  }
+  .no-scroll::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scroll {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .fill-image {
+    position: relative !important;
+    width: unset !important;
+    height: unset !important;
+    object-fit: contain !important;
+    inset: auto !important;
+  }
+}
+.rccs__cvc__front {
+  font-family: "Consolas", "Courier", monospace;
+  font-size: 11.9px;
+  opacity: 1 !important;
+  position: absolute;
+  right: 10%;
+  top: 38%;
+  visibility: visible !important;
+}
+.rccs__cvc__front::before {
+  content: "CVC ";
+}
+.card-desc ul {
+  list-style-type: circle !important;
+  list-style-image: url("../img/vectorarrow.png") !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.ant-collapse-header {
+  background-color: white;
+  border-radius: 25px !important;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+}
+.ant-collapse-item {
+  margin-bottom: 10px;
+}
+.ant-collapse-item-active .ant-collapse-header-text {
+  color: #3d86cf;
+  font-weight: 400;
+  padding-left: 15px;
+}
+.ant-collapse-header-text {
+  padding-left: 15px;
+}
